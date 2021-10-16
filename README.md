@@ -1,16 +1,16 @@
 ### Hi there , I'm Roger NDUTIYE 👋
 
-#### I'm a A full-stack web developer.
+#### I'm a full-stack web developer.
 - Passionate about web development technologies!
 - Building cool projects. 
 - Contributing to the community.
 - Learning new web technologies.
 
 #### Frontend 
-*Tailwind CSS, JAVASCRIPT, TYPESCRIPT, REACT, REDUX TOOL Kits
+*Tailwind CSS, JavaScript, TypeScript, React, Redux Toolkit
 
 #### Backend
-* Springboot, Laravel, dotnet Core
+* Spring Boot, .NET Core, Laravel
 
 
 <!--
