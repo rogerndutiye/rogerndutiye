@@ -7,7 +7,7 @@
 - Learning new web technologies.
 
 #### Frontend 
-*Tailwind CSS, JavaScript, TypeScript, React, Redux Toolkit
+*Tailwind CSS, JavaScript, TypeScript,VueJs React, Redux Toolkit
 
 #### Backend
 * Spring Boot, .NET Core, Laravel
