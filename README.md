@@ -1,6 +1,6 @@
 ### Hi there , I'm Roger NDUTIYE 👋
 
-#### I'm a full-stack web developer.
+#### I'm a full-stack developer.
 - Building cool projects. 
 - Contributing to the community.
 - Learning new web technologies.
