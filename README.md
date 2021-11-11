@@ -1,15 +1,11 @@
 ### Hi there , I'm Roger NDUTIYE 👋
 
-#### I'm a full-stack developer.
+#### I'm A Full-stack developer.
 - Building cool projects. 
 - Contributing to the community.
 - Learning new web technologies.
 
-#### Frontend 
-*Tailwind CSS, TypeScript, React,
-
-#### Backend
-* Spring Boot, .NET Core, Laravel
+https://rogerndutiye.vercel.app/
 
 
 <!--
