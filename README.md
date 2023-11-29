@@ -1,4 +1,4 @@
-<!-- [![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerndutiye&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=merko)](https://github.com/rogerndutiye/rogerndutiye)
+[![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerndutiye&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=merko)](https://github.com/rogerndutiye/rogerndutiye)
 
 ### Hi there , I'm Roger NDUTIYE 👋
 #### I'm A Full-stack developer.
